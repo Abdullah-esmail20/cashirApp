@@ -29,11 +29,16 @@
 4.  **بيانات الدخول الافتراضية:**
     * **المستخدم:** Admin
     * **كلمة المرور:** 123
-      ### واجهة تسجيل الدخول
 
 
 ### واجهة تسجيل الدخول
-![Login Screen](login.png)
+
+
+<img width="849" height="412" alt="homePage" src="https://github.com/user-attachments/assets/c3553292-a7a4-42c5-8c61-010b4a97930c" />
 
 ### الشاشة الرئيسية
-![Main Screen](homepage.png)
+<img width="846" height="456" alt="login" src="https://github.com/user-attachments/assets/f58677bb-38ce-443b-8e7f-0c6411ac56f5" />
+
+
+
+
